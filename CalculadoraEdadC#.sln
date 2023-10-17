@@ -5,7 +5,9 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculadoraEdadC#", "CalculadoraEdadC#\CalculadoraEdadC#.csproj", "{64A8C0DF-77E7-4C37-8E76-5A273A8A7764}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsCalcularEdad", "WinFormsCalcularEdad\WinFormsCalcularEdad.csproj", "{408DD995-7735-4ED3-B11C-107950E9F572}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsCalcularEdad", "WinFormsCalcularEdad\WinFormsCalcularEdad.csproj", "{408DD995-7735-4ED3-B11C-107950E9F572}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCCalculaEdad", "MVCCalculaEdad\MVCCalculaEdad\MVCCalculaEdad.csproj", "{65922267-8141-4BC6-A74C-A80AD0293CAA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{408DD995-7735-4ED3-B11C-107950E9F572}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{408DD995-7735-4ED3-B11C-107950E9F572}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{408DD995-7735-4ED3-B11C-107950E9F572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65922267-8141-4BC6-A74C-A80AD0293CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65922267-8141-4BC6-A74C-A80AD0293CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65922267-8141-4BC6-A74C-A80AD0293CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65922267-8141-4BC6-A74C-A80AD0293CAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

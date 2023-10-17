@@ -12,3 +12,17 @@ C:\Users\jorge.mlafuente\source\repos\CalculadoraEdadC#\MVCCalculaEdad\MVCCalcul
 C:\Users\jorge.mlafuente\source\repos\CalculadoraEdadC#\MVCCalculaEdad\MVCCalculaEdad\obj\Debug\net6.0\MVCCalculaEdad.pdb
 C:\Users\jorge.mlafuente\source\repos\CalculadoraEdadC#\MVCCalculaEdad\MVCCalculaEdad\obj\Debug\net6.0\MVCCalculaEdad.genruntimeconfig.cache
 C:\Users\jorge.mlafuente\source\repos\CalculadoraEdadC#\MVCCalculaEdad\MVCCalculaEdad\obj\Debug\net6.0\ref\MVCCalculaEdad.dll
+C:\Users\jorge.mlafuente\github\CalculadoraEdad\MVCCalculaEdad\MVCCalculaEdad\bin\Debug\net6.0\MVCCalculaEdad.exe
+C:\Users\jorge.mlafuente\github\CalculadoraEdad\MVCCalculaEdad\MVCCalculaEdad\bin\Debug\net6.0\MVCCalculaEdad.deps.json
+C:\Users\jorge.mlafuente\github\CalculadoraEdad\MVCCalculaEdad\MVCCalculaEdad\bin\Debug\net6.0\MVCCalculaEdad.runtimeconfig.json
+C:\Users\jorge.mlafuente\github\CalculadoraEdad\MVCCalculaEdad\MVCCalculaEdad\bin\Debug\net6.0\MVCCalculaEdad.dll
+C:\Users\jorge.mlafuente\github\CalculadoraEdad\MVCCalculaEdad\MVCCalculaEdad\bin\Debug\net6.0\MVCCalculaEdad.pdb
+C:\Users\jorge.mlafuente\github\CalculadoraEdad\MVCCalculaEdad\MVCCalculaEdad\obj\Debug\net6.0\MVCCalculaEdad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge.mlafuente\github\CalculadoraEdad\MVCCalculaEdad\MVCCalculaEdad\obj\Debug\net6.0\MVCCalculaEdad.AssemblyInfoInputs.cache
+C:\Users\jorge.mlafuente\github\CalculadoraEdad\MVCCalculaEdad\MVCCalculaEdad\obj\Debug\net6.0\MVCCalculaEdad.AssemblyInfo.cs
+C:\Users\jorge.mlafuente\github\CalculadoraEdad\MVCCalculaEdad\MVCCalculaEdad\obj\Debug\net6.0\MVCCalculaEdad.csproj.CoreCompileInputs.cache
+C:\Users\jorge.mlafuente\github\CalculadoraEdad\MVCCalculaEdad\MVCCalculaEdad\obj\Debug\net6.0\MVCCalculaEdad.dll
+C:\Users\jorge.mlafuente\github\CalculadoraEdad\MVCCalculaEdad\MVCCalculaEdad\obj\Debug\net6.0\refint\MVCCalculaEdad.dll
+C:\Users\jorge.mlafuente\github\CalculadoraEdad\MVCCalculaEdad\MVCCalculaEdad\obj\Debug\net6.0\MVCCalculaEdad.pdb
+C:\Users\jorge.mlafuente\github\CalculadoraEdad\MVCCalculaEdad\MVCCalculaEdad\obj\Debug\net6.0\MVCCalculaEdad.genruntimeconfig.cache
+C:\Users\jorge.mlafuente\github\CalculadoraEdad\MVCCalculaEdad\MVCCalculaEdad\obj\Debug\net6.0\ref\MVCCalculaEdad.dll

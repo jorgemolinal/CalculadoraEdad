@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jorge.mlafuente\\source\\repos\\CalculadoraEdadC#\\MVCCalculaEdad\\MVCCalculaEdad\\MVCCalculaEdad.csproj",
+      "projectUniqueName": "C:\\Users\\jorge.mlafuente\\github\\CalculadoraEdad\\MVCCalculaEdad\\MVCCalculaEdad\\MVCCalculaEdad.csproj",
       "projectName": "MVCCalculaEdad",
-      "projectPath": "C:\\Users\\jorge.mlafuente\\source\\repos\\CalculadoraEdadC#\\MVCCalculaEdad\\MVCCalculaEdad\\MVCCalculaEdad.csproj",
+      "projectPath": "C:\\Users\\jorge.mlafuente\\github\\CalculadoraEdad\\MVCCalculaEdad\\MVCCalculaEdad\\MVCCalculaEdad.csproj",
       "packagesPath": "C:\\Users\\jorge.mlafuente\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jorge.mlafuente\\source\\repos\\CalculadoraEdadC#\\MVCCalculaEdad\\MVCCalculaEdad\\obj\\",
+      "outputPath": "C:\\Users\\jorge.mlafuente\\github\\CalculadoraEdad\\MVCCalculaEdad\\MVCCalculaEdad\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
