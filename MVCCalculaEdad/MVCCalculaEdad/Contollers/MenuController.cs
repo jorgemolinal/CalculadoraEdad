@@ -12,7 +12,6 @@ namespace MVCCalculaEdad
         private UserModel user;
         private MenuView menuView;
         private bool final = false;
-
         public MenuController() {
             user = new UserModel(); //creo un usuario llamado user, 
             menuView = new MenuView();
@@ -36,17 +35,25 @@ namespace MVCCalculaEdad
                 switch(opcion)
                 {
                     case 1:
-                        CumpleController menuCumple = new CumpleController();
-                        menuCumple.ManageMenu(user.nombre);
-                        break;
+                        bool tierra = menuView.tierra();
+                        if (tierra)
+                        {
+                            CumpleController menuCumple = new CumpleController();
+                            menuCumple.ManageMenu(user.nombre);
+                            break;
+                        }
+                        else
+                        {
+                            PlanetasController menu = new PlanetasController();
+                            menu.ManageMenu(user.nombre);
+                            break;
+                        }
+                       
                     case 2:
                         GetName();
                         GetMenu();
                         break;
-                    case 3:
-                        PlanetasController menu = new PlanetasController();
-                        menu.ManageMenu(user.nombre);
-                        break;
+                        
                     case 0:
                         final = true; break;
                     default:
